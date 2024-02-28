@@ -1,0 +1,58 @@
+ul{
+    list-style-type: square;
+}
+#TC{
+    color: yellow;
+}
+.actress{
+    color: red;
+}
+/* body{
+    background-color: khaki;
+} */
+/* *{
+    background-color: orange;
+} */
+/* ul{
+    background-color: green;
+}
+ol{
+    background-color: darkcyan;
+} */
+/* #football{
+    background-color: green ;
+}
+#cricket{
+    background-color: darkcyan;
+}
+#actors{
+    background-color: sienna;
+}
+#acts{
+    background-color: mediumseagreen;
+}
+dl{
+    background-color: orchid;
+}
+dt{
+    background-color: coral;
+}
+dd{
+    background-color: darkgray;
+} */
+/* body{
+    background-image: linear-gradient(red,green,white);
+    height: 100vh; 
+}
+ul{
+    background-image: linear-gradient(to right,white, yellow);
+}
+ol{
+    background-image: linear-gradient(to right bottom, pink, blue);
+} */
+body{
+    background-image: url(./Images/aesthetic-anime-desktop-kids-viewing-sunset-cv1lqt95rxtfxxvu.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Protest Guerrilla", sans-serif;
+}
